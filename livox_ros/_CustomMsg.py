@@ -12,7 +12,7 @@ from _CustomPoint import CustomPoint
 import std_msgs.msg
 
 import numpy as np
-
+#12121212
 
 class CustomMsg(genpy.Message):
     _md5sum = "e4d6829bdfe657cb6c21a746c86b21a6"
